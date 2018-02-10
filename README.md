@@ -28,5 +28,5 @@ urbanparkjp --help
 
 ## LICENSE
 
-* Software license is MIT, See LICENSE.
-* data License is reserved by Japanese government. About data, you need to take full responsibility for your action.
+* Software license is MIT, see LICENSE.
+* All data license is reserved by Japanese government(http://nlftp.mlit.go.jp/ksj/index.html). About data, you need to take full responsibility for your action.
