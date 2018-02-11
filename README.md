@@ -1,4 +1,4 @@
-# urbanparkjp
+# urbanparkjp [![Build Status](https://travis-ci.org/ynishi/urbanparkjp.svg?branch=master)](https://travis-ci.org/ynishi/urbanparkjp)
 Japanese government's  open data about urban park planning converter for json
 
 * http://nlftp.mlit.go.jp/ksj/index.html
